@@ -8,7 +8,6 @@ import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faSearchengin } from "@fortawesome/free-brands-svg-icons";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { NavLink } from "react-router-dom";
-import SearchIcon from '@mui/icons-material/Search';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import PersonIcon from '@mui/icons-material/Person';
 import { useState } from "react";
