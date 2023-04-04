@@ -1,0 +1,394 @@
+{
+  "categories": [
+    {
+      "name": "shoe",
+      "url": "https://images.pexels.com/photos/5214139/pexels-photo-5214139.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 1
+    },
+    {
+      "name": "watch",
+      "url": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 2
+    },
+    {
+      "name": "goggle",
+      "url": "https://images.unsplash.com/photo-1577803645773-f96470509666?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c3VuZ2xhc3Nlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 3
+    },
+    {
+      "name": " pant",
+      "url": " https://www.kumartrading.in/image/cache/catalog/download%20(5)(1)-800x800.jpg",
+      "id": 5
+    },
+    {
+      "name": "laptop",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT73uko5NtlIyb0uPSmhUfQy1Q-UUzYwbyCXQ&usqp=CAU",
+      "id": 6
+    },
+    {
+      "name": "AC",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLiPle9MIEPpTHhidlzQnkN2Jn0cx_j3PwUw&usqp=CAU",
+      "id": 7
+    },
+    {
+      "name": "mobile",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-TrokJrAEAEYzrbr6ZhIwb7NN6SaBxcSCQ&usqp=CAU",
+      "id": 8
+    }
+  ],
+  "brand": [
+    {
+      "bname": "nike",
+      "burl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk5EeRfzhXljB5QsgGKmpT2HHyMy284j51Bw&usqp=CAU",
+      "id": 1
+    },
+    {
+      "bname": "gucci",
+      "burl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQopIQUCKjolhBF42UIjzC2ovxsVVOA62u7Q&usqp=CAU",
+      "id": 2
+    },
+    {
+      "bname": "H&M",
+      "burl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbCpvI_surSx4dB9_HB1m3NdQZycoQRzc5pQ&usqp=CAU",
+      "id": 3
+    },
+    {
+      "bname": " Louis Vuitton",
+      "burl": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtL8IXVGf-nGOhDi1GOvXtGjP3p9kZCVqh3A&usqp=CAU",
+      "id": 5
+    },
+    {
+      "bname": "Apple",
+      "burl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRi2uX85Sz5rLtezcyOBimxQSGI0VMC3_i4A&usqp=CAU",
+      "id": 6
+    },
+    {
+      "bname": "dell",
+      "burl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxxNFUp-jCyyyyT0M5T1WP_iUx8xVMAR1Mw&usqp=CAU",
+      "id": 7
+    }
+  ],
+  "color": [
+    {
+      "cname": "red",
+      "id": 1
+    },
+    {
+      "cname": "green",
+      "id": 5
+    },
+    {
+      "cname": "yellow",
+      "id": 6
+    },
+    {
+      "cname": " black",
+      "id": 7
+    },
+    {
+      "cname": " purple",
+      "id": 8
+    },
+    {
+      "cname": " pink",
+      "id": 9
+    },
+    {
+      "cname": " silver",
+      "id": 10
+    }
+  ],
+  "size": [
+    {
+      "sname": "s",
+      "id": 1
+    },
+    {
+      "sname": " m",
+      "id": 2
+    },
+    {
+      "sname": " l",
+      "id": 3
+    },
+    {
+      "sname": " xs",
+      "id": 4
+    },
+    {
+      "sname": " xl",
+      "id": 5
+    },
+    {
+      "sname": " 24",
+      "id": 6
+    },
+    {
+      "sname": " 28",
+      "id": 7
+    },
+    {
+      "sname": " 30",
+      "id": 8
+    },
+    {
+      "sname": " 22",
+      "id": 9
+    },
+    {
+      "sname": " 8",
+      "id": 10
+    },
+    {
+      "sname": " 9",
+      "id": 11
+    },
+    {
+      "sname": " 10",
+      "id": 12
+    }
+  ],
+  "product": [
+    {
+      "categorieName": "shoe",
+      "brandName": "nike",
+      "colorName": " silver",
+      "sizeName": " 9",
+      "pname": "sneakers",
+      "purl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFI3yv7sdi02eT7ARn7-9j_Dzh_U_JrUr0Q&usqp=CAU",
+      "price": "12000",
+      "featuredProduct": "YES",
+      "id": 1,
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, odio expedita quaerat aperiam voluptate facilis ea quam minus, accusantium dolorem quos ex ipsa? Possimus, commodi."
+    },
+    {
+      "categorieName": "watch",
+      "brandName": " Louis Vuitton",
+      "colorName": " black",
+      "sizeName": " m",
+      "pname": "Batmobile watch",
+      "purl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-t-vU6f1Ie0LiFIYbS6RhrBtamiU_1Rkpw&usqp=CAU",
+      "price": "78000",
+      "featuredProduct": "YES",
+      "id": 2,
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe aperiam possimus ex iure maiores ipsam similique? Doloribus veniam unde ipsa."
+    },
+    {
+      "categorieName": "goggle",
+      "purl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdgfJ_tBOeepxcKhhnNi5TCQJNyLchTWWJaw&usqp=CAU",
+      "pname": "Sunglasses",
+      "price": "1500",
+      "featuredProduct": "NO",
+      "brandName": "H&M",
+      "colorName": "green",
+      "sizeName": "s",
+      "id": 3
+    },
+    {
+      "categorieName": " pant",
+      "purl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSznDcnIXBXXGS6ngmUdn8fq5IzKQ_KUY4FLw&usqp=CAU",
+      "pname": "Man Pant",
+      "price": "4200",
+      "featuredProduct": "NO",
+      "sizeName": " 30",
+      "colorName": " purple",
+      "brandName": "gucci",
+      "id": 4
+    },
+    {
+      "categorieName": "laptop",
+      "brandName": "Apple",
+      "colorName": " silver",
+      "sizeName": " 28",
+      "pname": "macBook",
+      "purl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlBsnNUIhpAk3JpZE6_KlQ2zIpfzrnQjGP_A&usqp=CAU",
+      "price": "230000",
+      "featuredProduct": "YES",
+      "id": 5,
+      "comment": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit accusantium repellendus molestias nulla earum aliquam repellat perspiciatis? Eum quae praesentium inventore aut."
+    },
+    {
+      "categorieName": "watch",
+      "brandName": " Louis Vuitton",
+      "colorName": " black",
+      "sizeName": "s",
+      "pname": "Batmobile watch",
+      "purl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_w0usC-pEZtjWlkkgyH2FBaSvQ1LVkSN7fw&usqp=CAU",
+      "price": "3600",
+      "featuredProduct": "NO",
+      "comment": "Watches were developed in the 17th century from spring-powered clocks, which appeared as early as the 14th century. During most of its history the watch was a mechanical device, driven by clockwork, ",
+      "id": 6
+    },
+    {
+      "categorieName": "shoe",
+      "brandName": "nike",
+      "colorName": "green",
+      "sizeName": " 9",
+      "pname": "men shoe",
+      "purl": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bmlrZSUyMHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "13500",
+      "featuredProduct": "NO",
+      "comment": "Nike Air technology consists of pressurised air inside a tough yet flexible bag, and provides more flexibility and spring without compromising structure.",
+      "id": 7
+    },
+    {
+      "categorieName": "shoe",
+      "brandName": "gucci",
+      "colorName": " black",
+      "sizeName": " 8",
+      "pname": "lofer",
+      "purl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SZq7agcpVEaW0VUdiLivde3wgDrABltcbw&usqp=CAU",
+      "price": "9600",
+      "featuredProduct": "NO",
+      "comment": "Enjoy access to limited-release streetwear collections and rare sneaker drops. Daily new arrivals including luxury ready-to-wear, accessories, and footwear. More Than 500 Designers. Secure & Easy Checkout. Exclusive Collections. Fast Worldwide Shipping.",
+      "id": 8
+    },
+    {
+      "categorieName": "mobile",
+      "brandName": "Apple",
+      "colorName": " black",
+      "sizeName": "",
+      "pname": "14 pro",
+      "purl": "data:image/jpeg;base64,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",
+      "price": "115000",
+      "featuredProduct": "NO",
+      "comment": "a truly Apple innovation. All-new 48MP Main camera. A16 Bionic. Always-On display. Dynamic Island. New safety features. All-day battery life. Up to 1TB storag",
+      "id": 10
+    }
+  ],
+  "cart": [
+    {
+      "name": "sneakers",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFI3yv7sdi02eT7ARn7-9j_Dzh_U_JrUr0Q&usqp=CAU",
+      "size": " 9",
+      "color": " silver",
+      "price": "12000",
+      "userId": "meet917",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "name": "Batmobile watch",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-t-vU6f1Ie0LiFIYbS6RhrBtamiU_1Rkpw&usqp=CAU",
+      "size": " m",
+      "color": " black",
+      "price": "78000",
+      "userId": "meet917",
+      "quantity": 5,
+      "id": 2
+    },
+    {
+      "name": "macBook",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlBsnNUIhpAk3JpZE6_KlQ2zIpfzrnQjGP_A&usqp=CAU",
+      "size": " 28",
+      "color": " silver",
+      "price": "230000",
+      "userId": "meet917",
+      "quantity": 1,
+      "id": 3
+    },
+    {
+      "name": "sneakers",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFI3yv7sdi02eT7ARn7-9j_Dzh_U_JrUr0Q&usqp=CAU",
+      "size": " 9",
+      "color": " silver",
+      "price": "12000",
+      "userId": "smit291",
+      "quantity": 1,
+      "id": 4
+    },
+    {
+      "name": "Batmobile watch",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-t-vU6f1Ie0LiFIYbS6RhrBtamiU_1Rkpw&usqp=CAU",
+      "size": " m",
+      "color": " black",
+      "price": "78000",
+      "userId": "smit291",
+      "quantity": 3,
+      "id": 5
+    }
+  ],
+  "favorite": [
+    {
+      "name": "macBook",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlBsnNUIhpAk3JpZE6_KlQ2zIpfzrnQjGP_A&usqp=CAU",
+      "size": " 28",
+      "color": " silver",
+      "price": "230000",
+      "brand": "Apple",
+      "userId": "meet917",
+      "id": 1
+    },
+    {
+      "name": "Batmobile watch",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_w0usC-pEZtjWlkkgyH2FBaSvQ1LVkSN7fw&usqp=CAU",
+      "size": "s",
+      "color": " black",
+      "price": "3600",
+      "brand": " Louis Vuitton",
+      "userId": "meet917",
+      "id": 2
+    },
+    {
+      "name": "macBook",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlBsnNUIhpAk3JpZE6_KlQ2zIpfzrnQjGP_A&usqp=CAU",
+      "size": " 28",
+      "color": " silver",
+      "price": "230000",
+      "brand": "Apple",
+      "userId": "smit291",
+      "id": 3
+    },
+    {
+      "name": "Man Pant",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSznDcnIXBXXGS6ngmUdn8fq5IzKQ_KUY4FLw&usqp=CAU",
+      "size": " 30",
+      "color": " purple",
+      "price": "4200",
+      "brand": "gucci",
+      "userId": "smit291",
+      "id": 4
+    }
+  ],
+  "checkout": [
+    {
+      "fname": "meet",
+      "lname": "khandhediya",
+      "email": "meet@gmail.com",
+      "address": "145 saedar patel road",
+      "city": "rajkot",
+      "state": "gujarat",
+      "country": "india",
+      "pincode": "360001",
+      "paymentmethod": "Online",
+      "userId": "smit291",
+      "id": 1
+    }
+  ],
+  "login": [
+    {
+      "name": "smit shingala",
+      "email": "smit@gmail.com",
+      "mobile": "7485965263",
+      "password": "test1234",
+      "userId": "smit291",
+      "id": 1
+    },
+    {
+      "name": "meet",
+      "email": "meet@gmail.com",
+      "mobile": "9856231478",
+      "password": "test1234",
+      "userId": "meet917",
+      "id": 2
+    },
+    {
+      "name": "abhi",
+      "email": "abhi@gmail.com",
+      "mobile": "7485963253",
+      "password": "test1234",
+      "userId": "abhi159",
+      "id": 3
+    }
+  ]
+}
